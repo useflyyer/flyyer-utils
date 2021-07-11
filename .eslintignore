@@ -1,0 +1,6 @@
+!.eslintrc.js
+
+.vscode
+dist
+node_modules
+/lib
